@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ✅ Must EXACTLY match the RadialGradient start color in SplashScreen
+         Flutter splash starts at #E8253F — native splash shows #E8253F
+         User sees zero transition — it looks like one seamless screen -->
+    <color name="splashBackground">#000000</color>
+</resources>

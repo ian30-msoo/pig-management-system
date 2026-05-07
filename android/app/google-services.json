@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "677865403099",
+    "project_id": "mkulima-pro-db",
+    "storage_bucket": "mkulima-pro-db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677865403099:android:058a8f518d67efbf0892fe",
+        "android_client_info": {
+          "package_name": "com.spark.mkulimaproo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677865403099-bng321mbh58t7q2d85pdnug77jt4kk39.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spark.mkulimaproo",
+            "certificate_hash": "c35499f814c5861b3c15d5a3ef89c2e76d728380"
+          }
+        },
+        {
+          "client_id": "677865403099-g8ve15n6berhtbrj5crcae76v4dsj840.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFXXsz-NLJUwsljRSv8VRckFHwOoS-quE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677865403099-g8ve15n6berhtbrj5crcae76v4dsj840.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677865403099:android:f15465a4cb0cc1aa0892fe",
+        "android_client_info": {
+          "package_name": "com.example.mkulimapro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677865403099-g8ve15n6berhtbrj5crcae76v4dsj840.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFXXsz-NLJUwsljRSv8VRckFHwOoS-quE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677865403099-g8ve15n6berhtbrj5crcae76v4dsj840.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

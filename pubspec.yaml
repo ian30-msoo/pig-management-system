@@ -1,0 +1,44 @@
+name: mkulimaproo
+description: "MkulimaPro - Smart Pig Management System"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  firebase_core: ^3.8.0
+  firebase_auth: ^5.4.0
+  cloud_firestore: ^5.5.0
+  firebase_storage: ^12.3.6
+  google_sign_in: ^6.2.2
+  provider: ^6.1.2
+  google_fonts: ^6.2.1
+  shimmer: ^3.0.0
+  cached_network_image: ^3.4.1
+  fl_chart: ^0.70.2
+  intl: ^0.19.0
+  shared_preferences: ^2.3.4
+  image_picker: ^1.1.2
+  uuid: ^4.5.1
+  flutter_native_splash: ^2.4.1
+  camera: ^0.10.5+9
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_native_splash: ^2.4.1
+
+flutter:
+  uses-material-design: true
+
+flutter_native_splash:
+  color: "#E8253F"
+  android: true
+  ios: false
+  web: false
+  android_12:
+    color: "#E8253F"
